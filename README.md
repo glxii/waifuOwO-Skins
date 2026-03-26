@@ -1,6 +1,6 @@
 # waifuOwO (formerly glxii) skins for rhythm game "osu!"
+** Please note that skins 6.0 and earlier may contain inconsistencies
 > Images will be added later on ^^<br/>
-<br/>
 <br/>
 <br/>
 
